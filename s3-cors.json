@@ -1,0 +1,14 @@
+[
+    {
+        "AllowedHeaders": [
+            "*"
+        ],
+        "AllowedMethods": [
+            "POST"
+        ],
+        "AllowedOrigins": [
+            "http://localhost:3333"
+        ],
+        "ExposeHeaders": []
+    }
+]
